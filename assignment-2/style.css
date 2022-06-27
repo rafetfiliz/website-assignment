@@ -1,0 +1,105 @@
+	 body>div {display:none;}
+	
+	.homepage , :target  {display:block;}
+	
+	:target ~ .homepage {display:none;}
+		
+	
+	.navbar ul li {float:left;
+		list-style:none;
+		padding:15px 20px;}
+	
+	#teacherinputs {display:none;}
+		
+	
+	#teaminputs {display:none;}
+	
+	.buttons {width:100%;
+		text-align:center;}
+		
+	#button1 , #button2 {display:inline-block;}
+
+	#teacherinputs {width:100%;
+		text-align:center;}
+		
+	#teaminputs {width:100%;
+		text-align:center;}
+		
+	body{background-color:Cornsilk;
+	font-family:sans-serif;
+	font-size:20px;
+	height:1000px;}
+	
+	h1 {text-align:center;
+	font-size:50px;
+	color:Crimson;}
+	
+	.navbar {font-size:30px;
+	width:100%;
+	text-align:center;
+	}
+	
+	#navlist{text-align:center;
+	position:relative;
+	display:inline-block;
+	}
+	
+	#navlist > li {border-style:solid;
+	border-width:3px;
+	border-radius:10px;
+	border-color:DeepSkyBlue;
+	background-color:LightBlue;
+	}
+	
+	
+	 img { display:block; margin:0 auto;
+		 width:800x;
+		 height:600px;}
+		 
+	a:link {color:Red;}
+	
+	a:visited {color:Brown;}
+	
+	a:hover {color:Crimson;}
+	
+	a {text-decoration:none;}
+	
+	#tablom th td {border:2px solid black;}
+	
+	th ,td {text-align:center;
+		   padding:25px;}
+				
+	#tablom {width=50%;
+			border-collapse:collapse;
+			background-color:Beige;
+			margin-left:auto;
+			margin-right:auto;}
+			
+	 table ,td ,th {border-style:solid; border-width:2px; border-color:Black;}
+	 
+	 #teachertable , #teamtable {width=75%;
+	margin-left:auto;
+	margin-right:auto;
+	border-collapse: collapse;
+	background-color:Azure;
+	border:3px solid black;
+	}
+	
+	caption {font-weight:bold;
+	font-size:30px;
+	color:Red;}
+	
+	th {background-color:Bisque;}
+	
+	button {color:white;
+	background-color:Green;
+	padding:10px 15px;
+	font-size:17px;}
+	
+				
+			
+				
+				
+		 
+	
+	
